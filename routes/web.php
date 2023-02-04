@@ -7,3 +7,4 @@ Route::get('/', function () {
 });
 
 require_once 'web/auth.php';
+require_once 'web/home.php';
